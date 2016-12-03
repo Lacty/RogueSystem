@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class oppai : MonoBehaviour {
+public class Floor : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
